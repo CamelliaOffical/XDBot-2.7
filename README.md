@@ -9,6 +9,7 @@ supports it.
 
 Current target: Geometry Dash 2.2081  
 Current Geode SDK: 5.7.1
+NOW WiTH DISCORD [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/GsvGnqYvaz)
 
 ## Features
 
