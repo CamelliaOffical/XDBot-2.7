@@ -11,7 +11,7 @@ Current target: Geometry Dash 2.2081
 Current Geode SDK: 5.7.1
 NOW WiTH DISCORD [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/GsvGnqYvaz)
 
-## 🌐 Socials
+## Socials
 
 <p>
   <img src="telegram.png" width="24" align="left" style="margin-right: 8px;">
@@ -27,6 +27,8 @@ NOW WiTH DISCORD [![Discord](https://img.shields.io/badge/Discord-Join%20Server-
   <img src="gdmodding.png" width="24" align="left" style="margin-right: 8px;">
   <b>GDModding:</b> https://t.me/gdm_modding
 </p>
+
+## Features
 
 - Record and play back macros with xdBot's macro system.
 - Continue botting from practice checkpoints.
