@@ -14,18 +14,19 @@ NOW WiTH DISCORD [![Discord](https://img.shields.io/badge/Discord-Join%20Server-
 ## 🌐 Socials
 
 <p>
+  <img src="telegram.png" width="24" align="left" style="margin-right: 8px;">
+  <b>GDMacros:</b> https://t.me/gdmacros
+</p>
+
+<p>
   <img src="bwacord.png" width="24" align="left" style="margin-right: 8px;">
   <b>Discord:</b> https://discord.gg/GsvGnqYvaz
 </p>
 
 <p>
-  📢 <b>GDMacros:</b> https://t.me/gdmacros
+  <img src="gdmodding.png" width="24" align="left" style="margin-right: 8px;">
+  <b>GDModding:</b> https://t.me/gdm_modding
 </p>
-
-<p>
-  📢 <b>GDModding:</b> https://t.me/gdm_modding
-</p>
-## Features
 
 - Record and play back macros with xdBot's macro system.
 - Continue botting from practice checkpoints.
