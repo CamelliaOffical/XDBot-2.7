@@ -1,4 +1,4 @@
-# xdBot
+# xdBot (closed)
 
 ![xdBot logo](logo.png)
 
