@@ -7,7 +7,7 @@ designed to be easy to use for showcases, macro playback, recording, practice
 tools, trajectory helpers, and high-quality rendering where the platform
 supports it.
 
-Current target: Geometry Dash 2.2091 & 2.2081 
+Current target: Geometry Dash 2.2091 & 2.2081
 Current Geode SDK: 5.11.2
 
 
